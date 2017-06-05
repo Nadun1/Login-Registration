@@ -4,19 +4,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Security;
 
 namespace Login_abd_Registration.Controllers
 {
     public class AccountController : Controller
     {
         // GET: Account
-        public ActionResult Index()
-        {
-            using(MyDbContext db = new MyDbContext())
-            {
-                return View(db.Registrations.ToList());
-            }
-        }
+        //public ActionResult Index()
+        //{
+        //    using(MyDbContext db = new MyDbContext())
+        //    {
+        //        return View(db.Registrations.ToList());
+        //    }
+        //}
 
         public ActionResult Register()
         {

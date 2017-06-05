@@ -129,6 +129,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\registrationsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -179,6 +180,11 @@
     <Content Include="Views\Account\LoggedIn.cshtml" />
     <Content Include="Views\Account\Index.cshtml" />
     <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\registrations\Create.cshtml" />
+    <Content Include="Views\registrations\Delete.cshtml" />
+    <Content Include="Views\registrations\Details.cshtml" />
+    <Content Include="Views\registrations\Edit.cshtml" />
+    <Content Include="Views\registrations\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
