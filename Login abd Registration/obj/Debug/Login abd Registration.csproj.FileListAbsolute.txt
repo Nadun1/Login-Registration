@@ -43,3 +43,49 @@ C:\Users\Nadun\Desktop\Login abd Registration\Login abd Registration\obj\Debug\L
 C:\Users\Nadun\Desktop\Login abd Registration\Login abd Registration\obj\Debug\Login abd Registration.csproj.GenerateResource.Cache
 C:\Users\Nadun\Desktop\Login abd Registration\Login abd Registration\obj\Debug\Login abd Registration.dll
 C:\Users\Nadun\Desktop\Login abd Registration\Login abd Registration\obj\Debug\Login abd Registration.pdb
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\csc.exe
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\vbc.exe
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Login abd Registration.dll.config
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Login abd Registration.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Login abd Registration.pdb
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Antlr3.Runtime.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\EntityFramework.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\EntityFramework.SqlServer.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Newtonsoft.Json.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.Helpers.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.Mvc.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.Optimization.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.Razor.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.WebPages.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\WebGrease.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\EntityFramework.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\EntityFramework.SqlServer.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.Helpers.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.Mvc.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.Optimization.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.Razor.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.WebPages.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Antlr3.Runtime.pdb
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\bin\Newtonsoft.Json.xml
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\obj\Debug\Login abd Registration.csprojResolveAssemblyReference.cache
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\obj\Debug\Login_abd_Registration.Migrations.firstMigration.resources
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\obj\Debug\Login abd Registration.csproj.GenerateResource.Cache
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\obj\Debug\Login abd Registration.dll
+C:\Users\Nadun\Desktop\Login-Registration\Login abd Registration\obj\Debug\Login abd Registration.pdb

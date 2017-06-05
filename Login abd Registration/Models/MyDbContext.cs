@@ -8,7 +8,7 @@ namespace Login_abd_Registration.Models
 {
     public class MyDbContext : DbContext
     {
-        public MyDbContext() : base("DbName")
+        public MyDbContext() : base("Login")
         {
 
         }
