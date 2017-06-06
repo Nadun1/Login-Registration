@@ -1,0 +1,5 @@
+Add Link
+@Html.ActionLink("Back to List", "Index")
+
+Add Button
+<input type="button" value="Some text" onclick="@("window.location.href='" + @Url.Action("Register", "Account") + "'");" />
